@@ -1,6 +1,6 @@
-- 👋 Olá, Sou [David Souza](https://www.linkedin.com/in/david-abc-souza/) tenho 31 anos, moro no Rio de Janeiro - RJ. Atualmente estudo Engenharia Química na Universidade Federal do Rio de Janeiro (UFRJ) e Desenvolvimento web na escola de desenvolvimento web na  [Trybe](https://www.betrybe.com/).
-- 👀 Sou Interessado em desenvolvimento de softwares e aplicações Web e busco aprender coisas novas sempre que possível. Sou um amante de ciências exatas.
-- 🌱 Atualmente sou desenvolvedor Web Front-End e estou aprendendo desenvolvimento web Back-End.
+- **👋 Olá, Sou [David Souza](https://www.linkedin.com/in/david-abc-souza/) tenho 31 anos, moro no Rio de Janeiro - RJ. Atualmente estudo Engenharia Química na Universidade Federal do Rio de Janeiro (UFRJ) e Desenvolvimento web na [Trybe](https://www.betrybe.com/).**
+- **👀 Sou Interessado em desenvolvimento de softwares e aplicações Web e busco aprender coisas novas sempre que possível. Sou um amante de ciências exatas.**
+- **🌱 Atualmente sou desenvolvedor Web Front-End e estou aprendendo desenvolvimento web Back-End.**
 
 
 <div align="center">
