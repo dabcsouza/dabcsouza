@@ -24,6 +24,8 @@
   <img align="center" alt="David-Bootstrap" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="David-Matlab" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
   <img align="center" alt="David-git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+  <br />
+  <img align="center" alt="David-java" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" />
 <br />
 <hr />
 <div> 
