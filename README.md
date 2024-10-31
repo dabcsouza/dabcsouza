@@ -47,6 +47,7 @@ Moro no Rio de Janeiro - RJ. Sou engenheiro químico pela Universidade Federal d
   <img align="center" alt="David-SonarQube" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" />
   <img align="center" alt="David-MongoDB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" alt="David-Elasticsearch" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" />
+  <img align="center" alt="David-golang" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/go/go-original-wordmark.svg" />
 <br />
 <hr />
 <div> 
